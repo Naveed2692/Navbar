@@ -58,6 +58,9 @@ body{
     align-items: center;
     justify-content: right;
 }
+.center_nav{
+    text-align: center;
+}
 h1{
     text-align: center;
 }
